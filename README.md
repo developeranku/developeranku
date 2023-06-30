@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developeranku\&label=Profile%20views\&color=0e75b6\&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=developeranku)](https://github.com/ryo-ma/github-profile-trophy)
-
 Greetings, fellow technology enthusiasts! I'm Ankur Sharma, an extraordinary guy with a passion for all things tech. With a keen eye for innovation and a knack for problem-solving, I'm always ready to dive into the fascinating world of programming. Brace yourself - you're about to embark on an exhilarating journey through my tech stack kingdom!
 
 ## Tech Stack Kingdom
