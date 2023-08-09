@@ -1,5 +1,3 @@
-Sure! Here's a more informal version:
-
 # Ankur Sharma - Full Stack Wizard
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developeranku&label=Profile%20views&color=0e75b6&style=flat)
